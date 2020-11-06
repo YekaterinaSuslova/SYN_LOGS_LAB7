@@ -1,0 +1,168 @@
+2020-11-05 16:22:44 [INFO ] Class:48 - Start log4j
+2020-11-05 16:22:44 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:22:44 [WARN ] Class:50 - Warrning!
+2020-11-05 16:22:44 [ERROR] Class:51 - Error!
+2020-11-05 16:22:44 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:22:44 [INFO ] Class:53 - End log4j
+2020-11-05 16:24:21 [INFO ] Class:48 - Start log4j
+2020-11-05 16:24:21 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:24:21 [WARN ] Class:50 - Warrning!
+2020-11-05 16:24:21 [ERROR] Class:51 - Error!
+2020-11-05 16:24:21 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:24:21 [INFO ] Class:53 - End log4j
+2020-11-05 16:24:43 [INFO ] Class:48 - Start log4j
+2020-11-05 16:24:43 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:24:43 [WARN ] Class:50 - Warrning!
+2020-11-05 16:24:43 [ERROR] Class:51 - Error!
+2020-11-05 16:24:43 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:24:43 [INFO ] Class:53 - End log4j
+2020-11-05 16:27:49 [INFO ] Class:48 - Start log4j
+2020-11-05 16:27:49 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:27:49 [WARN ] Class:50 - Warrning!
+2020-11-05 16:27:49 [ERROR] Class:51 - Error!
+2020-11-05 16:27:49 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:27:49 [INFO ] Class:53 - End log4j
+2020-11-05 16:29:23 [INFO ] Class:48 - Start log4j
+2020-11-05 16:29:24 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:29:24 [WARN ] Class:50 - Warrning!
+2020-11-05 16:29:24 [ERROR] Class:51 - Error!
+2020-11-05 16:29:24 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:29:24 [INFO ] Class:53 - End log4j
+2020-11-05 16:29:43 [INFO ] Class:48 - Start log4j
+2020-11-05 16:29:43 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:29:43 [WARN ] Class:50 - Warrning!
+2020-11-05 16:29:43 [ERROR] Class:51 - Error!
+2020-11-05 16:29:43 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:29:43 [INFO ] Class:53 - End log4j
+2020-11-05 16:31:36 [INFO ] Class:48 - Start log4j
+2020-11-05 16:31:36 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:31:36 [WARN ] Class:50 - Warrning!
+2020-11-05 16:31:36 [ERROR] Class:51 - Error!
+2020-11-05 16:31:36 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:31:36 [INFO ] Class:53 - End log4j
+2020-11-05 16:32:11 [INFO ] Class:48 - Start log4j
+2020-11-05 16:32:11 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:32:11 [WARN ] Class:50 - Warrning!
+2020-11-05 16:32:11 [ERROR] Class:51 - Error!
+2020-11-05 16:32:11 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:32:11 [INFO ] Class:53 - End log4j
+2020-11-05 16:41:17 [INFO ] Class:48 - Start log4j
+2020-11-05 16:41:17 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:41:17 [WARN ] Class:50 - Warrning!
+2020-11-05 16:41:17 [ERROR] Class:51 - Error!
+2020-11-05 16:41:17 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:41:17 [INFO ] Class:53 - End log4j
+2020-11-05 16:42:23 [INFO ] Class:48 - Start log4j
+2020-11-05 16:42:23 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:42:23 [WARN ] Class:50 - Warrning!
+2020-11-05 16:42:23 [ERROR] Class:51 - Error!
+2020-11-05 16:42:23 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:42:23 [INFO ] Class:53 - End log4j
+2020-11-05 16:43:03 [INFO ] Class:48 - Start log4j
+2020-11-05 16:43:03 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:43:03 [WARN ] Class:50 - Warrning!
+2020-11-05 16:43:03 [ERROR] Class:51 - Error!
+2020-11-05 16:43:03 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:43:03 [INFO ] Class:53 - End log4j
+2020-11-05 16:52:25 [INFO ] Class:48 - Start log4j
+2020-11-05 16:52:25 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:52:25 [WARN ] Class:50 - Warrning!
+2020-11-05 16:52:25 [ERROR] Class:51 - Error!
+2020-11-05 16:52:25 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:52:25 [INFO ] Class:53 - End log4j
+2020-11-05 16:52:36 [INFO ] Class:48 - Start log4j
+2020-11-05 16:52:36 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:52:36 [WARN ] Class:50 - Warrning!
+2020-11-05 16:52:36 [ERROR] Class:51 - Error!
+2020-11-05 16:52:36 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:52:36 [INFO ] Class:53 - End log4j
+2020-11-05 16:53:01 [INFO ] Class:48 - Start log4j
+2020-11-05 16:53:01 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:53:01 [WARN ] Class:50 - Warrning!
+2020-11-05 16:53:01 [ERROR] Class:51 - Error!
+2020-11-05 16:53:01 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:53:01 [INFO ] Class:53 - End log4j
+2020-11-05 16:54:01 [INFO ] Class:48 - Start log4j
+2020-11-05 16:54:01 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 16:54:01 [WARN ] Class:50 - Warrning!
+2020-11-05 16:54:01 [ERROR] Class:51 - Error!
+2020-11-05 16:54:01 [FATAL] Class:52 - Fatal error!
+2020-11-05 16:54:01 [INFO ] Class:53 - End log4j
+2020-11-05 17:40:22 [INFO ] Class:48 - Start log4j
+2020-11-05 17:40:22 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:40:22 [WARN ] Class:50 - Warrning!
+2020-11-05 17:40:22 [ERROR] Class:51 - Error!
+2020-11-05 17:40:22 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:40:22 [INFO ] Class:53 - End log4j
+2020-11-05 17:40:38 [INFO ] Class:48 - Start log4j
+2020-11-05 17:40:38 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:40:38 [WARN ] Class:50 - Warrning!
+2020-11-05 17:40:38 [ERROR] Class:51 - Error!
+2020-11-05 17:40:38 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:40:38 [INFO ] Class:53 - End log4j
+2020-11-05 17:48:12 [INFO ] Class:48 - Start log4j
+2020-11-05 17:48:12 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:48:12 [WARN ] Class:50 - Warrning!
+2020-11-05 17:48:12 [ERROR] Class:51 - Error!
+2020-11-05 17:48:12 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:48:12 [INFO ] Class:53 - End log4j
+2020-11-05 17:48:26 [INFO ] Class:48 - Start log4j
+2020-11-05 17:48:26 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:48:26 [WARN ] Class:50 - Warrning!
+2020-11-05 17:48:26 [ERROR] Class:51 - Error!
+2020-11-05 17:48:26 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:48:26 [INFO ] Class:53 - End log4j
+2020-11-05 17:50:06 [INFO ] Class:48 - Start log4j
+2020-11-05 17:50:06 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:50:06 [WARN ] Class:50 - Warrning!
+2020-11-05 17:50:06 [ERROR] Class:51 - Error!
+2020-11-05 17:50:06 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:50:06 [INFO ] Class:53 - End log4j
+2020-11-05 17:50:49 [INFO ] Class:48 - Start log4j
+2020-11-05 17:50:49 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:50:49 [WARN ] Class:50 - Warrning!
+2020-11-05 17:50:49 [ERROR] Class:51 - Error!
+2020-11-05 17:50:49 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:50:49 [INFO ] Class:53 - End log4j
+2020-11-05 17:55:05 [INFO ] Class:48 - Start log4j
+2020-11-05 17:55:05 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:55:05 [WARN ] Class:50 - Warrning!
+2020-11-05 17:55:05 [ERROR] Class:51 - Error!
+2020-11-05 17:55:05 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:55:05 [INFO ] Class:53 - End log4j
+2020-11-05 17:56:18 [INFO ] Class:48 - Start log4j
+2020-11-05 17:56:18 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:56:18 [WARN ] Class:50 - Warrning!
+2020-11-05 17:56:18 [ERROR] Class:51 - Error!
+2020-11-05 17:56:18 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:56:18 [INFO ] Class:53 - End log4j
+2020-11-05 17:57:39 [INFO ] Class - Start log4j
+2020-11-05 17:57:39 [INFO ] Class - Hi Logger info!
+2020-11-05 17:57:39 [WARN ] Class - Warrning!
+2020-11-05 17:57:39 [ERROR] Class - Error!
+2020-11-05 17:57:39 [FATAL] Class - Fatal error!
+2020-11-05 17:57:39 [INFO ] Class - End log4j
+2020-11-05 17:58:45 [INFO ]  - Start log4j
+2020-11-05 17:58:45 [INFO ]  - Hi Logger info!
+2020-11-05 17:58:45 [WARN ]  - Warrning!
+2020-11-05 17:58:45 [ERROR]  - Error!
+2020-11-05 17:58:45 [FATAL]  - Fatal error!
+2020-11-05 17:58:45 [INFO ]  - End log4j
+2020-11-05 17:59:33 [INFO ]  - Start log4j
+2020-11-05 17:59:33 [INFO ]  - Hi Logger info!
+2020-11-05 17:59:33 [WARN ]  - Warrning!
+2020-11-05 17:59:33 [ERROR]  - Error!
+2020-11-05 17:59:33 [FATAL]  - Fatal error!
+2020-11-05 17:59:33 [INFO ]  - End log4j
+2020-11-05 17:59:50 [INFO ] Class:48 - Start log4j
+2020-11-05 17:59:50 [INFO ] Class:49 - Hi Logger info!
+2020-11-05 17:59:50 [WARN ] Class:50 - Warrning!
+2020-11-05 17:59:50 [ERROR] Class:51 - Error!
+2020-11-05 17:59:50 [FATAL] Class:52 - Fatal error!
+2020-11-05 17:59:50 [INFO ] Class:53 - End log4j
+2020-11-06 13:46:44 [INFO ] Class:42 - Start log4j
+2020-11-06 13:46:44 [INFO ] Class:43 - Hi Logger info!
+2020-11-06 13:46:44 [WARN ] Class:44 - Warrning!
+2020-11-06 13:46:44 [ERROR] Class:45 - Error!
+2020-11-06 13:46:44 [FATAL] Class:46 - Fatal error!
+2020-11-06 13:46:44 [INFO ] Class:47 - End log4j

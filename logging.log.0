@@ -1,0 +1,457 @@
+2020-11-05 16:22:44 [INFO   ] logs.Class - Start 
+2020-11-05 16:22:44 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 16:22:44 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 16:22:44 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 16:22:44 [INFO   ] logs.Class - Some message 
+2020-11-05 16:22:44 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 16:22:44 [INFO   ] logs.Class - End 
+ноя 05, 2020 4:24:21 PM logs.Class main
+INFO: Start
+ноя 05, 2020 4:24:21 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 4:24:21 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 4:24:21 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 4:24:21 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 4:24:21 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 4:24:21 PM logs.Class main
+INFO: End
+2020-11-05 16:24:43 [INFO   ] logs.Class - Start 
+2020-11-05 16:24:43 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 16:24:43 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 16:24:43 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 16:24:43 [INFO   ] logs.Class - Some message 
+2020-11-05 16:24:43 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 16:24:43 [INFO   ] logs.Class - End 
+ноя 05, 2020 4:27:48 PM logs.Class main
+INFO: Start
+ноя 05, 2020 4:27:48 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 4:27:48 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 4:27:48 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 4:27:48 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 4:27:48 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 4:27:48 PM logs.Class main
+INFO: End
+2020-11-05 16:29:23 [INFO   ] logs.Class - Start 
+2020-11-05 16:29:23 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 16:29:23 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 16:29:23 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 16:29:23 [INFO   ] logs.Class - Some message 
+2020-11-05 16:29:23 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 16:29:23 [INFO   ] logs.Class - End 
+ноя 05, 2020 4:29:43 PM logs.Class main
+INFO: Start
+ноя 05, 2020 4:29:43 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 4:29:43 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 4:29:43 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 4:29:43 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 4:29:43 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 4:29:43 PM logs.Class main
+INFO: End
+INFO: Start [Чт ноя 05 16:31:36 ALMT 2020]
+INFO: Запись лога с уровнем INFO (информационная) [Чт ноя 05 16:31:36 ALMT 2020]
+WARNING: Запись лога с уровнем WARNING (Предупреждение) [Чт ноя 05 16:31:36 ALMT 2020]
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка) [Чт ноя 05 16:31:36 ALMT 2020]
+INFO: Some message [Чт ноя 05 16:31:36 ALMT 2020]
+SEVERE: My Exception: ERR! [Чт ноя 05 16:31:36 ALMT 2020]
+INFO: End [Чт ноя 05 16:31:36 ALMT 2020]
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+INFO: Start
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+INFO: Some message
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+SEVERE: My Exception: ERR!
+Чт ноя 05 16:32:11 ALMT 2020 logs.Class main
+INFO: End
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+INFO: Start
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+INFO: Some message
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+SEVERE: My Exception: ERR!
+Чт ноя 05 16:41:17 ALMT 2020 logs.Class main
+INFO: End
+ноя 05, 2020 4:42:23 PM logs.Class main
+INFO: Start
+ноя 05, 2020 4:42:23 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 4:42:23 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 4:42:23 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 4:42:23 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 4:42:23 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 4:42:23 PM logs.Class main
+INFO: End
+2020-11-05 16:43:03 [INFO   ] logs.Class - Start 
+2020-11-05 16:43:03 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 16:43:03 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 16:43:03 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 16:43:03 [INFO   ] logs.Class - Some message 
+2020-11-05 16:43:03 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 16:43:03 [INFO   ] logs.Class - End 
+2020-11-05 16:52:25 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 16:52:25 [INFO   ] logs.Class - End 
+2020-11-05 16:52:36 [INFO   ] logs.Class - End 
+2020-11-05 16:54:54 [INFO   ]  logs.Class - Start 
+2020-11-05 16:54:54 [INFO   ]  logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 16:54:54 [WARNING]  logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 16:54:54 [SEVERE ]  logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 16:54:54 [INFO   ]  logs.Class - Some message 
+2020-11-05 16:54:54 [SEVERE ]  logs.Class - My Exception: ERR! 
+2020-11-05 16:54:54 [INFO   ]  logs.Class - End 
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+INFO: Start
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+INFO: Some message
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+SEVERE: My Exception: ERR!
+Чт ноя 05 16:55:10 ALMT 2020 logs.Class main
+INFO: End
+INFO: Start [Чт ноя 05 16:56:07 ALMT 2020]
+INFO: Запись лога с уровнем INFO (информационная) [Чт ноя 05 16:56:07 ALMT 2020]
+WARNING: Запись лога с уровнем WARNING (Предупреждение) [Чт ноя 05 16:56:07 ALMT 2020]
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка) [Чт ноя 05 16:56:07 ALMT 2020]
+INFO: Some message [Чт ноя 05 16:56:07 ALMT 2020]
+SEVERE: My Exception: ERR! [Чт ноя 05 16:56:07 ALMT 2020]
+INFO: End [Чт ноя 05 16:56:07 ALMT 2020]
+2020-11-05 16:56:22 [INFO   ]  logs.Class - Start 
+2020-11-05 16:56:22 [INFO   ]  logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 16:56:22 [WARNING]  logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 16:56:22 [SEVERE ]  logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 16:56:22 [INFO   ]  logs.Class - Some message 
+2020-11-05 16:56:22 [SEVERE ]  logs.Class - My Exception: ERR! 
+2020-11-05 16:56:22 [INFO   ]  logs.Class - End 
+[INFO] Start [logs.Class main]
+[INFO] Запись лога с уровнем INFO (информационная) [logs.Class main]
+[WARNING] Запись лога с уровнем WARNING (Предупреждение) [logs.Class main]
+[SEVERE] Запись лога с уровнем SEVERE (серъёзная ошибка) [logs.Class main]
+[INFO] Some message [logs.Class main]
+[SEVERE] My Exception: ERR! [logs.Class main]
+[INFO] End [logs.Class main]
+ноя 05, 2020 4:59:34 PM logs.Class main
+INFO: Start
+ноя 05, 2020 4:59:34 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 4:59:34 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 4:59:34 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 4:59:34 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 4:59:34 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 4:59:34 PM logs.Class main
+INFO: End
+ноя 05, 2020 4:59:43 PM logs.Class main
+INFO: Start
+ноя 05, 2020 4:59:43 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 4:59:43 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 4:59:43 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 4:59:43 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 4:59:43 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 4:59:43 PM logs.Class main
+INFO: End
+2020-11-05 17:08:59 INFO logs.Class main Start
+2020-11-05 17:08:59 INFO logs.Class main Запись лога с уровнем INFO (информационная)
+2020-11-05 17:08:59 WARNING logs.Class main Запись лога с уровнем WARNING (Предупреждение)
+2020-11-05 17:08:59 SEVERE logs.Class main Запись лога с уровнем SEVERE (серъёзная ошибка)
+2020-11-05 17:08:59 INFO logs.Class main Some message
+2020-11-05 17:08:59 SEVERE logs.Class main My Exception: ERR!
+2020-11-05 17:08:59 INFO logs.Class main End
+2020-11-05 17:12:47 INFO logs.Class main Start
+2020-11-05 17:12:47 INFO logs.Class main Запись лога с уровнем INFO (информационная)
+2020-11-05 17:12:47 WARNING logs.Class main Запись лога с уровнем WARNING (Предупреждение)
+2020-11-05 17:12:47 SEVERE logs.Class main Запись лога с уровнем SEVERE (серъёзная ошибка)
+2020-11-05 17:12:47 INFO logs.Class main Some message
+2020-11-05 17:12:47 SEVERE logs.Class main My Exception: ERR!
+2020-11-05 17:12:47 INFO logs.Class main End
+2020-11-05 17:12:55 [INFO   ]  logs.Class - Start 
+2020-11-05 17:12:55 [INFO   ]  logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:12:55 [WARNING]  logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:12:55 [SEVERE ]  logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:12:55 [INFO   ]  logs.Class - Some message 
+2020-11-05 17:12:55 [SEVERE ]  logs.Class - My Exception: ERR! 
+2020-11-05 17:12:55 [INFO   ]  logs.Class - End 
+ноя 05, 2020 5:16:38 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:16:38 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:16:38 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:16:38 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:16:38 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:16:38 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:16:38 PM logs.Class main
+INFO: End
+2020-11-05 17:16:48 [INFO   ]  logs.Class  - Start 
+2020-11-05 17:16:48 [INFO   ]  logs.Class  - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:16:48 [WARNING]  logs.Class  - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:16:48 [SEVERE ]  logs.Class  - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:16:48 [INFO   ]  logs.Class  - Some message 
+2020-11-05 17:16:48 [SEVERE ]  logs.Class  - My Exception: ERR! 
+2020-11-05 17:16:48 [INFO   ]  logs.Class  - End 
+2020-11-05 17:18:50 [INFO   ]  logs.Class  - Start 
+2020-11-05 17:18:50 [INFO   ]  logs.Class  - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:18:50 [WARNING]  logs.Class  - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:18:50 [SEVERE ]  logs.Class  - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:18:50 [INFO   ]  logs.Class  - Some message 
+2020-11-05 17:18:50 [SEVERE ]  logs.Class  - My Exception: ERR! 
+2020-11-05 17:18:50 [INFO   ]  logs.Class  - End 
+ноя 05, 2020 5:22:50 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:22:50 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:22:50 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:22:50 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:22:50 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:22:50 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:22:50 PM logs.Class main
+INFO: End
+ноя 05, 2020 5:23:15 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:23:15 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:23:15 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:23:15 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:23:15 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:23:15 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:23:15 PM logs.Class main
+INFO: End
+ноя 05, 2020 5:24:10 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:24:10 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:24:10 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:24:10 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:24:10 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:24:10 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:24:10 PM logs.Class main
+INFO: End
+2020-11-05 17:26:58 [INFO   ]  logs.Class  - Start 
+2020-11-05 17:26:58 [INFO   ]  logs.Class  - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:26:58 [WARNING]  logs.Class  - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:26:58 [SEVERE ]  logs.Class  - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:26:58 [INFO   ]  logs.Class  - Some message 
+2020-11-05 17:26:58 [SEVERE ]  logs.Class  - My Exception: ERR! 
+2020-11-05 17:26:58 [INFO   ]  logs.Class  - End 
+ноя 05, 2020 5:37:55 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:37:55 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:37:55 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:37:55 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:37:55 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:37:55 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:37:55 PM logs.Class main
+INFO: End
+ноя 05, 2020 5:38:12 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:38:12 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:38:12 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:38:12 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:38:12 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:38:12 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:38:12 PM logs.Class main
+INFO: End
+2020-11-05 17:38:50 [INFO   ]  logs.Class - Start 
+2020-11-05 17:38:50 [INFO   ]  logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:38:50 [WARNING]  logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:38:50 [SEVERE ]  logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:38:50 [INFO   ]  logs.Class - Some message 
+2020-11-05 17:38:50 [SEVERE ]  logs.Class - My Exception: ERR! 
+2020-11-05 17:38:50 [INFO   ]  logs.Class - End 
+ноя 05, 2020 5:40:05 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:40:05 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:40:05 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:40:05 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:40:05 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:40:05 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:40:05 PM logs.Class main
+INFO: End
+2020-11-05 17:40:22 [INFO   ]  logs.Class - Start 
+2020-11-05 17:40:22 [INFO   ]  logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:40:22 [WARNING]  logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:40:22 [SEVERE ]  logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:40:22 [INFO   ]  logs.Class - Some message 
+2020-11-05 17:40:22 [SEVERE ]  logs.Class - My Exception: ERR! 
+2020-11-05 17:40:22 [INFO   ]  logs.Class - End 
+2020-11-05 17:40:38 [INFO   ] logs.Class - Start 
+2020-11-05 17:40:38 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:40:38 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:40:38 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:40:38 [INFO   ] logs.Class - Some message 
+2020-11-05 17:40:38 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 17:40:38 [INFO   ] logs.Class - End 
+ноя 05, 2020 5:48:12 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:48:12 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:48:12 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:48:12 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:48:12 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:48:12 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:48:12 PM logs.Class main
+INFO: End
+2020-11-05 17:48:26 [INFO   ] logs.Class - Start 
+2020-11-05 17:48:26 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:48:26 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:48:26 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:48:26 [INFO   ] logs.Class - Some message 
+2020-11-05 17:48:26 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 17:48:26 [INFO   ] logs.Class - End 
+2020-11-05 17:50:06 INFO logs.Class main Start
+2020-11-05 17:50:06 INFO logs.Class main Запись лога с уровнем INFO (информационная)
+2020-11-05 17:50:06 WARNING logs.Class main Запись лога с уровнем WARNING (Предупреждение)
+2020-11-05 17:50:06 SEVERE logs.Class main Запись лога с уровнем SEVERE (серъёзная ошибка)
+2020-11-05 17:50:06 INFO logs.Class main Some message
+2020-11-05 17:50:06 SEVERE logs.Class main My Exception: ERR!
+2020-11-05 17:50:06 INFO logs.Class main End
+ноя 05, 2020 5:50:49 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:50:49 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:50:49 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:50:49 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:50:49 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:50:49 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:50:49 PM logs.Class main
+INFO: End
+ноя 05, 2020 5:55:05 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:55:05 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:55:05 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:55:05 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:55:05 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:55:05 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:55:05 PM logs.Class main
+INFO: End
+ноя 05, 2020 5:56:18 PM logs.Class main
+INFO: Start
+ноя 05, 2020 5:56:18 PM logs.Class main
+INFO: Запись лога с уровнем INFO (информационная)
+ноя 05, 2020 5:56:18 PM logs.Class main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+ноя 05, 2020 5:56:18 PM logs.Class main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+ноя 05, 2020 5:56:18 PM logs.Class main
+INFO: Some message
+ноя 05, 2020 5:56:18 PM logs.Class main
+SEVERE: My Exception: ERR!
+ноя 05, 2020 5:56:18 PM logs.Class main
+INFO: End
+2020-11-05 17:57:39 [INFO   ] logs.Class - Start 
+2020-11-05 17:57:39 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:57:39 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:57:39 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:57:39 [INFO   ] logs.Class - Some message 
+2020-11-05 17:57:39 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 17:57:39 [INFO   ] logs.Class - End 
+2020-11-05 17:58:45 [INFO   ] logs.Class - Start 
+2020-11-05 17:58:45 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:58:45 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:58:45 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:58:45 [INFO   ] logs.Class - Some message 
+2020-11-05 17:58:45 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 17:58:45 [INFO   ] logs.Class - End 
+2020-11-05 17:59:33 [INFO   ] logs.Class - Start 
+2020-11-05 17:59:33 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:59:33 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:59:33 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:59:33 [INFO   ] logs.Class - Some message 
+2020-11-05 17:59:33 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 17:59:33 [INFO   ] logs.Class - End 
+2020-11-05 17:59:50 [INFO   ] logs.Class - Start 
+2020-11-05 17:59:50 [INFO   ] logs.Class - Запись лога с уровнем INFO (информационная) 
+2020-11-05 17:59:50 [WARNING] logs.Class - Запись лога с уровнем WARNING (Предупреждение) 
+2020-11-05 17:59:50 [SEVERE ] logs.Class - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2020-11-05 17:59:50 [INFO   ] logs.Class - Some message 
+2020-11-05 17:59:50 [SEVERE ] logs.Class - My Exception: ERR! 
+2020-11-05 17:59:50 [INFO   ] logs.Class - End 
+2020-11-06 13:46:44 [INFO   ] logs.Class - Start 
+2020-11-06 13:46:44 [INFO   ] logs.Class - Информационная 
+2020-11-06 13:46:44 [WARNING] logs.Class - Предупреждение 
+2020-11-06 13:46:44 [SEVERE ] logs.Class - Серъёзная ошибка 
+2020-11-06 13:46:44 [INFO   ] logs.Class - Some message 
+2020-11-06 13:46:44 [INFO   ] logs.Class - End 
